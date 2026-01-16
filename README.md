@@ -4,7 +4,7 @@ I'm a student at Columbia studying Applied Math and Computer Science. Interested
 
 # 🗓️ What I'm Working On:
 
-- **Govo** - Building the world's first consumer-facing taste inference engine (Swift + Node + Firebase).
+- **Govo** - Building the world's first consumer-facing taste inference engine (Swift + TypeScript + Node + Firebase).
 - **Roomio**  – Tinder-style roommate matching app enabling students to find compatible living partners through personalized algorithm (Flutter + Supabase + FastAPI).
 - **Velaris** – CTO for student-led investment fund with chapters at Columbia, Cornell, and Wharton (research infrastructure, automated data workflows, analytical tools for equity research).
 - **and more!**
