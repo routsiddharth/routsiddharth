@@ -1,3 +1,7 @@
+# 👋 Hey! 
+
+I'm a student at Columbia studying Applied Math and Computer Science. Interested in early stage startups!
+
 # 🗓️ What I'm Working On:
 
 - **Govo** - Building the world's first consumer-facing taste inference engine (Swift + Node + Firebase).
