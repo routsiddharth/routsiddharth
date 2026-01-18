@@ -1,6 +1,6 @@
-# 👋 Hey! 
+# 👋
 
-I'm a student at Columbia studying Applied Math and Computer Science. Interested in early stage startups!
+Applied Math + CS @ Columbia. Interested in early stage!
 
 # 🗓️ What I'm Working On:
 
