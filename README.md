@@ -5,7 +5,7 @@ Applied Math + CS @ Columbia. Interested in early stage!
 # 🗓️ What I'm Working On:
 
 - **Govo** - Building the world's first consumer-facing taste inference engine (Swift + TypeScript + Node + Firebase). v1 on the App Store!
-- **Roomio**  – Tinder-style roommate matching app enabling students to find compatible living partners through personalized algorithm (Flutter + Supabase + FastAPI).
+- **Vero**  – Tinder-style roommate matching app enabling students to find compatible living partners through personalized algorithm (Flutter + Supabase + FastAPI).
 - **Velaris** – CTO for student-led investment fund with chapters at Columbia, Cornell, and Wharton (research infrastructure, automated data workflows, analytical tools for equity research).
 - **and more!**
 
